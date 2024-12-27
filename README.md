@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on changing professions. I used to be a technical translator, but I'm now in an apprenticeship program working as a full-stack developer. However, I'm especially drawn to back-end development.
+- 🌱 I’m currently learning Java, Angular, TypeScript and Vue.js.
+- 📫 How to reach me: https://www.linkedin.com/in/krisandra-adams/
+
 <!--
 **Krisandr-a/Krisandr-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
